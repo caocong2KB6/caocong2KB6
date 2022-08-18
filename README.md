@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/caocong2404/PRO192_Summer2022/blob/master/avt-01-01-01.png">
+    <img width="200" src="https://github.com/caocong2404/caocong2404/blob/main/avt-01-01-01.png">
 </p>
 <h1 align="center">Hi , I'm Cao Van Cong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h1>
 <p align='center'>
