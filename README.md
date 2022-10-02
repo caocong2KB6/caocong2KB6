@@ -51,6 +51,7 @@ src="https://cdn-icons-png.flaticon.com/512/187/187209.png"/></a>
 <a style="float:right" href="https://app.daily.dev/caocong2404"><img src="https://api.daily.dev/devcards/61fa7c9675214b90a8e112c7c88ee20f.png?r=0bz" width="400" alt="CaoCong's Dev Card"/></a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![](https://github.com/caocong2404/caocong2404/blob/master/giphy.gif)
 
 
 <br>
