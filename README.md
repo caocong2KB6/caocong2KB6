@@ -17,10 +17,8 @@
   
 - 🌱 I’m currently learning Java
   
-- 💬 Ask me about C, Java, SQL
+- 💬 Ask me about C#, Java, SQL
   
-- ⚡ Fun fact: I'M GAMERR !! <p> <img src = "https://cdn-icons-png.flaticon.com/512/686/686589.png" width=40px> </p>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=> <img width ='32px' src ='https://icon-library.com/images/icon-java/icon-java-6.jpg'> </a>
 <a href=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -42,11 +40,10 @@ src="https://cdn-icons-png.flaticon.com/512/187/187209.png"/></a>
   
 <br>
 <br>
-  <br>
+<br>
   
   
-[![CaoCong GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caocong2404&theme=tokyonight)](https://git.io/praveenscience)
-| ![CaoCong github stats](https://github-readme-stats.vercel.app/api?username=caocong2404&show_icons=true&theme=tokyonight) | ![CaoCong GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caocong2404&theme=tokyonight) |
+![CaoCong github stats](https://github-readme-stats.vercel.app/api?username=caocong2404&show_icons=true&theme=tokyonight) | ![CaoCong GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caocong2404&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caocong2404&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=caocong2404&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <a style="float:right" href="https://app.daily.dev/caocong2404"><img src="https://api.daily.dev/devcards/61fa7c9675214b90a8e112c7c88ee20f.png?r=0bz" width="400" alt="CaoCong's Dev Card"/></a>
