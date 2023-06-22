@@ -5,7 +5,7 @@
 <p align='center'>
 </p>
 
-<div size='20px' align="center"> Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px' align="center"> <h2>Thank You for taking the time to view my GitHub Profile :smile:💖</h2> 
 </div>
 
 <h2> :sassy_man:  About me
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying on  FPT University
   
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java ☕ and C# 🦈
   
 - 💬 Ask me about C#, Java, SQL
   
