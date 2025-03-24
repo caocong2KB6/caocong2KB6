@@ -15,11 +15,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying on  FPT University
-  
-- 🌱 I’m currently learning Java ☕ and C# 🦈
-  
-- 💬 Ask me about C#, Java, SQL
+- 🎓 I graduated from FPT University.
+
+- 💼 Currently working at FPT Software as a Developer.
+
+- 🚀 My main tech stack includes TypeScript, JavaScript, Node.js, NestJS, C#, Java, and SQL.
+
+- 💬 Feel free to ask me about backend development, databases, and software architecture.
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=> <img width ='32px' src ='https://icon-library.com/images/icon-java/icon-java-6.jpg'> </a>
@@ -34,7 +36,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.facebook.com/cong.cao.jvun12h'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png"/></a> 
-<a href = 'https://twitter.com/caocong2KB6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/cao-cong-2kb6'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a> 
 <a href = 'https://github.com/caocong2KB6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.youtube.com/channel/UC37m2JETWFj9a1Mw6l5fUWA'> <img width = '32px' align= 'center' 
 src="https://cdn-icons-png.flaticon.com/512/187/187209.png"/></a>
@@ -45,9 +47,9 @@ src="https://cdn-icons-png.flaticon.com/512/187/187209.png"/></a>
 <br>
   
   
-![CaoCong github stats](https://github-readme-stats.vercel.app/api?username=caocong2KB6&show_icons=true&theme=tokyonight) | ![CaoCong GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caocong2KB6&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caocong2KB6&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=caocong2KB6&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![CaoCong github stats](https://github-readme-stats.vercel.app/api?username=caocong2KB6&show_icons=true&theme=tokyonight) 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caocong2KB6&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=caocong2KB6&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 <a style="float:right" href="https://app.daily.dev/caocong2KB6"><img src="https://api.daily.dev/devcards/61fa7c9675214b90a8e112c7c88ee20f.png?r=0bz" width="400" alt="CaoCong's Dev Card"/></a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
